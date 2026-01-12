@@ -1,0 +1,1 @@
+print("Hello!" *3)  #repetition 
